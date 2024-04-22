@@ -2,7 +2,8 @@
 
 ## Special thanks for all the people who had helped this project so far:
 
-* Jean-Pierre Drolet
+* Enrique Vargas
+* Chris Beuschel
 * [Jim Kring](@jimkring)
 * [JKI](@JKISoftware)
 * [Jonathon Green](@j-gcode)
