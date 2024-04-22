@@ -27,20 +27,7 @@
 				<Item Name="icon.png" Type="Document" URL="../source/images/icon.png"/>
 			</Item>
 			<Item Name="library" Type="Folder">
-				<Item Name="MD5 Message Digest" Type="Folder">
-					<Item Name="MD5 Message Digest (Binary String).vi" Type="VI" URL="../source/library/MD5 Message Digest/MD5 Message Digest (Binary String).vi"/>
-					<Item Name="MD5 Message Digest (Hexadecimal String).vi" Type="VI" URL="../source/library/MD5 Message Digest/MD5 Message Digest (Hexadecimal String).vi"/>
-				</Item>
-				<Item Name="MD5 F function.vi" Type="VI" URL="../source/library/MD5 F function.vi"/>
-				<Item Name="MD5 FGHI functions.vi" Type="VI" URL="../source/library/MD5 FGHI functions.vi"/>
-				<Item Name="MD5 G function.vi" Type="VI" URL="../source/library/MD5 G function.vi"/>
-				<Item Name="MD5 H function.vi" Type="VI" URL="../source/library/MD5 H function.vi"/>
-				<Item Name="MD5 Hash.vi" Type="VI" URL="../source/library/MD5 Hash.vi"/>
-				<Item Name="MD5 I function.vi" Type="VI" URL="../source/library/MD5 I function.vi"/>
-				<Item Name="MD5 Message Digest.vi" Type="VI" URL="../source/library/MD5 Message Digest.vi"/>
-				<Item Name="MD5 Padding.vi" Type="VI" URL="../source/library/MD5 Padding.vi"/>
-				<Item Name="MD5 ti.vi" Type="VI" URL="../source/library/MD5 ti.vi"/>
-				<Item Name="MD5 Unrecoverable character padding.vi" Type="VI" URL="../source/library/MD5 Unrecoverable character padding.vi"/>
+				<Item Name="openg_md5.lvlib" Type="Library" URL="../source/library/openg_md5.lvlib"/>
 				<Item Name="VI Tree - md5.vi" Type="VI" URL="../source/library/VI Tree - md5.vi"/>
 			</Item>
 		</Item>
